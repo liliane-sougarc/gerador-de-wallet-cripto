@@ -151,7 +151,7 @@ Exemplo de Carteira Gerada
 
 **Chave Privada:** cU42tkacgVA3RAF5GoePkcVAeYUV5aWm3w1pYxPnaWtEssjhr3ka
 
-Seed (mnemonic): agree gather never spoil reveal illegal winter know swamp asthma much gossip
+**Seed (mnemonic):** agree gather never spoil reveal illegal winter know swamp asthma much gossip
 
 ### Utilizando o Electrum para Gerenciar a Carteira
 
@@ -163,7 +163,7 @@ Ao iniciar, selecione a opção "Standard Wallet" e clique em "Next".
 
 Selecione "I already have a seed" e insira a seed gerada pelo script.
 
-Verificando Transações:
+### Verificando Transações:
 
 Utilize o Blockchain Explorer para monitorar o endereço público gerado.
 
